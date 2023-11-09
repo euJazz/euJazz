@@ -1,4 +1,4 @@
-<h1 align="center"> Prazer,sou o Lucas Silva 🖐️!
+<h1 align="center"> Prazer,sou o Lucas 🖐️!
 
 
 ## Tecnologias e Ferramentas em Desenvolvimento:
