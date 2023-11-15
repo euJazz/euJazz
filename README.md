@@ -20,6 +20,7 @@
 
 <h2 align="center">
 
-![Jazz GitHub stats](https://github-readme-stats.vercel.app/api?username=euJazz&show_icons=true&theme=dracula&count_private=true)
-
+![Jazz GitHub stats](https://github-readme-stats.vercel.app/api?username=euJazz&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![Jazz GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=euJazz&theme=nightowl&hide_border=true)
+![Jazz GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=euJazz&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
