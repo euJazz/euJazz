@@ -15,7 +15,7 @@
 </div><br/>
 
 
-- 📡 Projeto em Desenvolvimento Para MTA:San Andreas [Brooklyn MTA](https://discord.com/invite/gdh6a49hwP)
+- 📡 Projeto em Desenvolvimento Para MTA:San Andreas [Shard MTA]([https://discord.com/invite/gdh6a49hwP](https://discord.gg/JjpQq3Fp))
 
 
 <h2 align="center">
